@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh; 
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card {
+    padding-top: 300px;
+    font-size: 64px;
+    text-align: center;
+    margin: 10px;
+    width: 250px;
+    height: 400px;
+    border: 1px solid black;
+}
